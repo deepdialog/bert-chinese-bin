@@ -1,0 +1,5 @@
+numpy
+tensorflow
+tqdm
+bert-for-tf2
+tf-text-model

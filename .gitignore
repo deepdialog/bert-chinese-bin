@@ -1,0 +1,11 @@
+*.py[cod]
+*.log
+*.pkl
+.ipynb_checkpoints
+*.swp
+*.ipynb
+chinese_L-12_H-768_A-12
+chinese_roberta_wwm_ext_L-12_H-768_A-12
+build
+dist
+*.egg-info
